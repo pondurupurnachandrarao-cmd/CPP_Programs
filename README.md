@@ -2,3 +2,5 @@
 1. A C++ program to display the message "Hello World!..." on the screen.
    
 2. A C++ program to print the Student Details.
+
+3.A C++ program to display the values of Datatypes - Integer, Float, String and Character..
