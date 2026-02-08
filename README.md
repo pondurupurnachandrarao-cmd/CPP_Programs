@@ -6,3 +6,5 @@
 3. A C++ program to display the values of Datatypes - Integer, Float, String and Character..
 
 4. A C++ program to read two variables and print the sum of these two variables.
+
+5. A C++ program to read two variables and print all Arithmetic Operations.
