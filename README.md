@@ -8,3 +8,5 @@
 4. A C++ program to read two variables and print the sum of these two variables.
 
 5. A C++ program to read two variables and print all Arithmetic Operations.
+
+6. A C++ program to check the given number is Positive or Negative.
