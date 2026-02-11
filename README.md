@@ -10,3 +10,5 @@
 5. A C++ program to read two variables and print all Arithmetic Operations.
 
 6. A C++ program to check the given number is Positive or Negative.
+
+7. A C++ program to read three values and check the maximum value among them.
