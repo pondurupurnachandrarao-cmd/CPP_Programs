@@ -12,3 +12,5 @@
 6. A C++ program to check the given number is Positive or Negative.
 
 7. A C++ program to read three values and check the maximum value among them.
+
+8. A C++ program to check whether the given number is Even or Odd.
