@@ -16,3 +16,5 @@
 8. A C++ program to check whether the given number is Even or Odd.
 
 9. A C++ program to check whether the given number is multiple of five or not.
+
+10. A C++ program to check whether a given number is even or odd based on its last digit.
