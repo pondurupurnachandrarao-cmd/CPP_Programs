@@ -22,3 +22,5 @@
 11. A C++ program to check whether a given character is a digit, capital alphabet, small alphabet, or special character.
 
 12. Write a C++ program that reads an integer from the user and prints “fizz” if the number is divisible by 2, “buzz” if it is divisible by 3, “fizz-buzz” if it is divisible by both 2 and 3, and prints the number itself if it is divisible by neither.
+
+13. Write a C++ program to print the word "Hello" five times using a for loop.
