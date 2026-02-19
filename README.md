@@ -28,3 +28,5 @@
 14. A C++ program to print the digits from 9 to 1 (reverse order) using a for loop
 
 15. Write a C++ program to print all even numbers from 1 to 10 using a for loop.
+
+16. Write a C++ program to print all odd numbers from 1 to 10 using a for loop.
