@@ -26,3 +26,5 @@
 13. Write a C++ program to print the word "Hello" five times using a for loop.
 
 14. A C++ program to print the digits from 9 to 1 (reverse order) using a for loop
+
+15. Write a C++ program to print all even numbers from 1 to 10 using a for loop.
