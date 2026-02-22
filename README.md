@@ -34,3 +34,5 @@
 17. Write a C++ program to print the multiplication table of a given number using a for loop.
 
 18. Write a C++ program to find the sum of first n natural numbers. The program should take the value of n from the user and display the sum.
+
+19. Write a C++ program to find the factorial of a given number using a for loop.
