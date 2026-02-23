@@ -36,3 +36,5 @@
 18. Write a C++ program to find the sum of first n natural numbers. The program should take the value of n from the user and display the sum.
 
 19. Write a C++ program to find the factorial of a given number using a for loop.
+
+20. Write a C++ program to print every digit of a given number in reverse order using a while loop.
