@@ -38,3 +38,5 @@
 19. Write a C++ program to find the factorial of a given number using a for loop.
 
 20. Write a C++ program to print every digit of a given number in reverse order using a while loop.
+
+21. Write a C++ program to find the maximum and minimum digits of a given number.
