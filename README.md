@@ -40,3 +40,5 @@
 20. Write a C++ program to print every digit of a given number in reverse order using a while loop.
 
 21. Write a C++ program to find the maximum and minimum digits of a given number.
+
+22. Write a C++ program to find and display all the factors of a given number.
