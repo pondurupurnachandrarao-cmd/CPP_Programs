@@ -42,3 +42,5 @@
 21. Write a C++ program to find the maximum and minimum digits of a given number.
 
 22. Write a C++ program to find and display all the factors of a given number.
+
+23. Write a C++ program to check whether a given number is a prime number or not.
