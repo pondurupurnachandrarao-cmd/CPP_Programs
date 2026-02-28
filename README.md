@@ -44,3 +44,6 @@
 22. Write a C++ program to find and display all the factors of a given number.
 
 23. Write a C++ program to check whether a given number is a prime number or not.
+
+24. Write a C++ program to validate a password.
+The program should repeatedly ask the user to enter the password until the correct password (1234) is entered.
