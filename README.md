@@ -46,4 +46,9 @@
 23. Write a C++ program to check whether a given number is a prime number or not.
 
 24. Write a C++ program to validate a password.
-The program should repeatedly ask the user to enter the password until the correct password (1234) is entered.
+            The program should repeatedly ask the user to enter the password until the correct password (1234) is entered.
+
+25. Write a C++ program using nested for loops to print the following pattern:
+                                                                     00 01 02
+                                                                     10 11 12
+                                                                     20 21 22
