@@ -52,3 +52,12 @@
                                                                      00 01 02
                                                                      10 11 12
                                                                      20 21 22
+
+26. Write a C++ program using nested for loops to print a square star (*) pattern of size n × n.
+
+For example, if n = 4, the output should be:
+
+* * * *
+* * * *
+* * * *
+* * * *
