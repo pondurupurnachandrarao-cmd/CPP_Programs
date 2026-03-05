@@ -49,14 +49,20 @@
             The program should repeatedly ask the user to enter the password until the correct password (1234) is entered.
 
 25. Write a C++ program using nested for loops to print the following pattern:
-                                                                     00 01 02
-                                                                     10 11 12
-                                                                     20 21 22
+                                                                     00 01 02,
+                                                                     10 11 12,
+                                                                     20 21 22,
 
 26. Write a C++ program using nested for loops to print a square star (*) pattern of size n × n.
                                                 For example, if n = 4, the output should be:
-                                                * * * *\n
-                                                * * * *\n
-                                                * * * *\n
+                                                * * * *,
+                                                * * * *,
+                                                * * * *,
                                                 * * * *
-27.
+27.Write a C++ program to print a star (*) pattern using nested for loops as shown below.
+
+Output
+*,
+* *,
+* * *,
+* * * *,
