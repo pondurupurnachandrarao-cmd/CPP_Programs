@@ -61,6 +61,14 @@
                                                 * * * *
 27.Write a C++ program to print a star (*) pattern using nested for loops as shown below.
 
+28. Write a C++ program to print the following star pattern using nested for loops.
+
+Output
+* * * *
+ * * *
+  * *
+   *
+
 Output
 *,
 * *,
