@@ -75,3 +75,11 @@ Output
   * *
    *
 
+29. Write a **C++ program to print the following number pattern using nested for loops** (where n = 4`).
+
+Pattern
+1
+1 2
+1 2 3
+1 2 3 4
+
