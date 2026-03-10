@@ -84,3 +84,5 @@ Pattern
 1 2 3 4
 
 30. Write a C++ program to store 5 numbers in an array and print all the elements of the array.
+
+31. Write a C++ program to store and display elements in an array.
